@@ -1,2 +1,2 @@
 # hate-speech-detection
-i Developed thi hate speech detection using Python django framework
+I Developed thi hate speech detection using Python django framework
